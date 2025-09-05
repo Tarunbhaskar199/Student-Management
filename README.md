@@ -21,6 +21,7 @@ javac -cp "lib/mysql-connector-j-9.4.0.jar;src" src/*.java
 
 ##  Run
 java -cp "lib/mysql-connector-j-9.4.0.jar;src" Main
+
 ## Features
 - Add new students  
 - Update student details  
