@@ -27,5 +27,4 @@ java -cp "lib/mysql-connector-j-9.4.0.jar;src" Main
 - View all students  
 - Persistent storage with MySQL
 
-
   >  **Note**: Download `mysql-connector-j-9.4.0.jar` from the official MySQL site and place it into the `lib/` folder before compiling/running.
