@@ -23,9 +23,9 @@ javac -cp "lib/mysql-connector-j-9.4.0.jar;src" src/*.java
 java -cp "lib/mysql-connector-j-9.4.0.jar;src" Main
 
 ##  Features
-  -Add new students
-  -Update student details
-  -View all students
-  -Persistent storage with MySQL
+-Add new students
+-Update student details
+-View all students
+-Persistent storage with MySQL
 
   >  **Note**: Download `mysql-connector-j-9.4.0.jar` from the official MySQL site and place it into the `lib/` folder before compiling/running.
